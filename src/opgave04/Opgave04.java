@@ -5,7 +5,7 @@ import opgave04.utils.StopWatch;
 
 import java.util.Arrays;
 
-public class Main {
+public class Opgave04 {
     public static void main(String[] args) {
         int[] sampleSize = {10_000, 100_000, 1_000_000, 10_000_000};
 

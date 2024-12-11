@@ -1,6 +1,6 @@
 package opgave02;
 
-public class Main {
+public class Opgave02 {
     public static void main(String[] args) {
         String[] names = {"Erna", "Elly", "Laurits", "Bertha", "Christian",
                 "August", "Marius", "John", "Tove", "Poul", "Torkild"};

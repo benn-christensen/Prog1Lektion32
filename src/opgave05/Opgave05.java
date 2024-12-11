@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Main {
+public class Opgave05 {
     private static boolean[][] rulesMatrix = new boolean[100][100];
 
     public static void main(String[] args) {
