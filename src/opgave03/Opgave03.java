@@ -5,7 +5,7 @@ import opgave03.models.Item;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class Opgave03 {
     public static void main(String[] args) {
         ArrayList<Item> items = getItems();
         System.out.println(items);
